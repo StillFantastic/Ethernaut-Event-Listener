@@ -7,5 +7,6 @@ Storing all the level complete logs into mongo database, including player addres
 ```
 DB_URI=YOUR_MONGODB_URI
 ```
-2. run `init.js` to drop the old collections and create new ones
-3. run `server.js` to start listening event
+2. run `npm install` 
+3. run `init.js` to drop the old collections and create new ones
+4. run `server.js` to start listening event
